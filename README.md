@@ -2,6 +2,9 @@
 How to connect the Traxxas Teton ESC and Servo to an Arduino Uno and control with a PlayStation 2 controller.
 Courtesy of using the PS2X library written by Bill Porter.  Can be found here: https://github.com/madsci1016/Arduino-PS2X
 
+// Video explanation
+https://www.youtube.com/watch?v=243xFXF-J-0
+
 // Materials Needed
 - Traxxas Teton (any brushed motor traxxas ESC model)
 - Arduino Uno
